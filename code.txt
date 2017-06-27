@@ -1,4 +1,5 @@
 demogit dossier 
 add dans github
 modification de la ligne
-AJouter tous dans le bdd
+Editer se trouve dans le Icone a droit edit 
+Pour modifer dans github 
